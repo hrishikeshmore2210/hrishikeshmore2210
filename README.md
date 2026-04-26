@@ -95,7 +95,7 @@ I work at the intersection of **LLMs, agents, and software engineering** — bui
 ## 📬 Let's Connect
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-22d3ee?style=for-the-badge&logo=vercel&logoColor=white)](https://hrishikesh-more.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hrishikeshmore)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hrishikesh-more)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hrishi.more.123@gmail.com)
 
 ---
