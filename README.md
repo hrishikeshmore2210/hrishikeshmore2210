@@ -23,7 +23,7 @@ I work at the intersection of **LLMs, agents, and software engineering** — bui
 
 ## 💼 Highlighted Work
 
-🔹 **[AI Governance Trust Center](https://hrishikesh-more.vercel.app/#projects)** — RAG-powered compliance chatbot · 87% accuracy · 78.5/100 SUS · React + Node.js + MongoDB + LLMs
+🔹 **AI Governance Trust Center** — RAG-powered compliance chatbot · 87% accuracy · 78.5/100 SUS · React + Node.js + MongoDB + LLMs
 
 🔹 **AI-Powered Sentiment Analysis** — NLP system for brand reputation monitoring · Python + NLTK + Scikit-learn
 
